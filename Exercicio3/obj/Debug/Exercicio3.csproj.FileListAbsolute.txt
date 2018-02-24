@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\ConsoleApp1\Exercicio3\bin\Debug\Exercicio3.exe.config
+C:\Users\aluno\source\repos\ConsoleApp1\Exercicio3\bin\Debug\Exercicio3.exe
+C:\Users\aluno\source\repos\ConsoleApp1\Exercicio3\bin\Debug\Exercicio3.pdb
+C:\Users\aluno\source\repos\ConsoleApp1\Exercicio3\obj\Debug\Exercicio3.csprojResolveAssemblyReference.cache
+C:\Users\aluno\source\repos\ConsoleApp1\Exercicio3\obj\Debug\Exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ConsoleApp1\Exercicio3\obj\Debug\Exercicio3.exe
+C:\Users\aluno\source\repos\ConsoleApp1\Exercicio3\obj\Debug\Exercicio3.pdb
