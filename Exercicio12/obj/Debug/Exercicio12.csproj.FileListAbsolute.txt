@@ -1,0 +1,6 @@
+C:\Users\aluno\Documents\Damiano\ExercicioAula1\Exercicio12\bin\Debug\Exercicio12.exe.config
+C:\Users\aluno\Documents\Damiano\ExercicioAula1\Exercicio12\bin\Debug\Exercicio12.exe
+C:\Users\aluno\Documents\Damiano\ExercicioAula1\Exercicio12\bin\Debug\Exercicio12.pdb
+C:\Users\aluno\Documents\Damiano\ExercicioAula1\Exercicio12\obj\Debug\Exercicio12.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\Damiano\ExercicioAula1\Exercicio12\obj\Debug\Exercicio12.exe
+C:\Users\aluno\Documents\Damiano\ExercicioAula1\Exercicio12\obj\Debug\Exercicio12.pdb

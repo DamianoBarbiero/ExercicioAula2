@@ -1,0 +1,7 @@
+C:\Users\João Missorino\Desktop\Leticia\projeto\C-Users-aluno-Desktop-Leticia\Exercicio1\Exercico10\bin\Debug\Exercico10.exe.config
+C:\Users\João Missorino\Desktop\Leticia\projeto\C-Users-aluno-Desktop-Leticia\Exercicio1\Exercico10\bin\Debug\Exercico10.exe
+C:\Users\João Missorino\Desktop\Leticia\projeto\C-Users-aluno-Desktop-Leticia\Exercicio1\Exercico10\bin\Debug\Exercico10.pdb
+C:\Users\João Missorino\Desktop\Leticia\projeto\C-Users-aluno-Desktop-Leticia\Exercicio1\Exercico10\obj\Debug\Exercico10.csproj.CoreCompileInputs.cache
+C:\Users\João Missorino\Desktop\Leticia\projeto\C-Users-aluno-Desktop-Leticia\Exercicio1\Exercico10\obj\Debug\Exercico10.exe
+C:\Users\João Missorino\Desktop\Leticia\projeto\C-Users-aluno-Desktop-Leticia\Exercicio1\Exercico10\obj\Debug\Exercico10.pdb
+C:\Users\João Missorino\Desktop\Leticia\projeto\C-Users-aluno-Desktop-Leticia\Exercicio1\Exercico10\obj\Debug\Exercico10.csprojResolveAssemblyReference.cache

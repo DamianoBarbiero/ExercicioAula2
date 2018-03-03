@@ -1,0 +1,7 @@
+C:\Users\aluno\Desktop\Leticia\Exercicio1\Exercico5\bin\Debug\Exercico5.exe.config
+C:\Users\aluno\Desktop\Leticia\Exercicio1\Exercico5\bin\Debug\Exercico5.exe
+C:\Users\aluno\Desktop\Leticia\Exercicio1\Exercico5\bin\Debug\Exercico5.pdb
+C:\Users\aluno\Desktop\Leticia\Exercicio1\Exercico5\obj\Debug\Exercico5.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Leticia\Exercicio1\Exercico5\obj\Debug\Exercico5.exe
+C:\Users\aluno\Desktop\Leticia\Exercicio1\Exercico5\obj\Debug\Exercico5.pdb
+C:\Users\aluno\Desktop\Leticia\Exercicio1\Exercico5\obj\Debug\Exercico5.csprojResolveAssemblyReference.cache
